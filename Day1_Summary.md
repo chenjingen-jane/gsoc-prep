@@ -1,4 +1,5 @@
 GSoC 2026 Preparation: Day 1 Summary
+
 📅 Overview
 Focus: Linux Environment, Git Advanced Workflow, and Python Debugging.
 
